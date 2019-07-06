@@ -1,2 +1,2 @@
-N=input()
-print(N+".")
+S=input()
+print(S+".")
